@@ -25,4 +25,24 @@
     #515ecf
   );
   border-radius: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.insta-inner {
+  width: 200px;
+  height: 200px;
+  border: 18px solid #fff;
+  border-radius: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.insta-inner2 {
+  width: 100px;
+  height: 100px;
+  border: 18px solid #fff;
+  border-radius: 50%;
 }
